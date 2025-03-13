@@ -4,12 +4,8 @@ Processed data, code and results from : Sola J., Capdevila P., Baillie J.M.E., D
 
 # Repository layout
 
-[Open Folder](./1. Species List/) - Complete species list with taxonomy and conservation status.
-
-2. Species Biomass - Biomass estimates for all migratory species.
-
-3. Species Modelling - Manually compiled dataset of mass migrations.
-   
-4. Figures - Modeled biomass predictions for each species.
-
-5. Supplementary Materials - Migration distances and biomass proportions for fish populations.
+- [📂 Species List](./1.%20Species%20List/) - Complete species list with taxonomy and conservation status.
+- [📂 Species Biomass](./Species%20Biomass/) - Biomass estimates for all migratory species. Mmanually compiled dataset of mass migrations.
+- [📂 Species Modelling](./Species%20Modelling/) - Fitted models to obtain biomass predictions for each species.
+- [📂 Figures](./Figures/) - Code for manuscript figures and tables.
+- [📂 Supplementary Materials](./Supplementary%20Materials/) - Code for supplementary figures and information.
