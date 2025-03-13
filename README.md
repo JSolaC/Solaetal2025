@@ -4,7 +4,7 @@ Processed data, code and results from : Sola J., Capdevila P., Baillie J.M.E., D
 
 # Repository layout
 
-1. Species List - Complete species list with taxonomy and conservation status.
+[Open Folder](./1. Species List/) - Complete species list with taxonomy and conservation status.
 
 2. Species Biomass - Biomass estimates for all migratory species.
 
